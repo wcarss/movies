@@ -1,0 +1,36 @@
+Box Office Optimizer
+====================
+
+This program will let you load in a file of this weekend's upcoming films and
+adjust their numbers, comparing different setups for cost and projected total
+revenue.
+
+Something it does not do yet (but will in the future) is calculate the optimal
+configuration of films, given the information you input. It also does not go
+out to the internet and find projected revenues for the upcoming weekend,
+but it would be pretty cool if it did that -- so it might get there.
+
+It's likely going to change a great deal in terms of its interface (I'd like
+it to actually be a website _and_ a command line utility) but for now it's
+just a python-repl tool. It's meant to be run by invoking the python repl,
+importing it, and then manually calling its functions.
+
+If you have any questions (or for some reason think this merits a donation,
+wink wink) please contact Wyatt Carss at carss.w@gmail.com
+
+Enjoy!
+
+(
+    disclaimer or whatever:
+
+    Please don't try to use this for anything involving real money, and
+    *definitely* do not blame me if you rely on this for anything at all.
+
+    In fact, please do not rely on this for anything at all.
+
+    And license or whatever:
+
+    You may copy, redistribute, modify, share, sell, or perform any other
+    action on this program with or without the inclusion of attribution or
+    this license.
+)
